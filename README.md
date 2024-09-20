@@ -7,6 +7,6 @@ populations. This project focuses on analyzing the trends in COVID-19
 vaccinations to identify patterns and insights that can inform policy decisions and 
 help control the spread of the virus
 
-Excel File  - Dataset (Cleaned & optimised)
-Pbix file - Data Visualisation from Power BI
+Excel File  - Dataset (Cleaned & optimised) ,
+Pbix file - Data Visualisation from Power BI ,
 Word and Pptx are presentations and information about Data analysis 
